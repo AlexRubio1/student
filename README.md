@@ -90,8 +90,6 @@ bundle install
     ---
     ```
 
-- Front matter will always have '---' at the top and bottom to distinguish it and each key value pair will be separated by a ':'.
-
 - Here we can modify things like the title and description.
 
 - The type value will tells us which column this is going to appear under, supported values: `plans`, `hacks`, `tangibles`.
