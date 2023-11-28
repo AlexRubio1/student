@@ -4,8 +4,8 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!! lolz
+## My homepage
+The start of my journey seems good about me trying to run a scipt of how to create a image of a koopa running or just the image.
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
