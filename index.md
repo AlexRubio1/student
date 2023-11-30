@@ -7,7 +7,7 @@ title: Student Blog
 ## Alex Rubio's Homepage
 THe start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code possibly and animation or anything. Starting with this homepage I'm going to try and make it entertaining. 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +16,7 @@ THe start of my journey was a little intense has I didn't know what I was for a 
 </head>
 <body>
 
- <img src= (DSC06914.jpg) alt="Your Image">
+ <img src= "!(DSC06914.jpg)" alt="Your Image">
 
 </body>
 </html>
