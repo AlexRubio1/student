@@ -16,7 +16,7 @@ THe start of my journey was a little intense has I didn't know what I was for a 
 </head>
 <body>
 
- <img src="!(DSC06914.jpg)" alt="Your Image">
+ <img src= (DSC06914.jpg) alt="Your Image">
 
 </body>
 </html>
