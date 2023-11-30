@@ -10,17 +10,16 @@ THe start of my journey was a little intense has I didn't know what I was for a 
 <script>
 from PIL import Image
 
-image_filename = '![Alt text](DSC06914.jpg)'
+image_filename =(DSC06914.jpg)
 
 # Open and resize the image
 image = Image.open(image_filename).resize((300, 200))
 
-# Save the new image
+
 image.save("output_image_from_photos.png")
 
-# Display the image (true)
-image.show(true)
 
+image.show(true)
 
 
 
