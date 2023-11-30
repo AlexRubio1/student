@@ -7,19 +7,19 @@ title: Student Blog
 ## Alex Rubio's Homepage
 THe start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code possibly and animation or anything. Starting with this homepage I'm going to try and make it entertaining. 
 
-<script>
-from PIL import Image
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+</head>
+<body>
 
-image_filename = (DSC06914.jpg)
+ <img src="!(DSC06914.jpg)" alt="Your Image">
 
-
-image = Image.open(image_filename).resize((300, 200))
-
-
-image.save("output_image_from_photos.png")
-
-
-image.show(true)
+</body>
+</html>
 
 
 
