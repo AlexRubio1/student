@@ -8,22 +8,12 @@ title: Student Blog
 THe start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code possibly and animation or anything. Starting with this homepage I'm going to try and make it entertaining. 
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website</title>
-</head>
-<body>
 
- <img src= "!(![Alt text](DSC06914.jpg))" alt="Your Image">
-
-</body>
-</html>
+![Alt text]({{site.baseurl}}/images/DSC06914.jpg)
 
 
 
-
+More about myself is that I love playing football and that it's my passion. I want to carry on what my dad does if football doesn't work out and start coding to become a engineer.
    
 
 
