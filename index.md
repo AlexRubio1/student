@@ -13,7 +13,7 @@ THe start of my journey was a little intense has I didn't know what I was for a 
 
 
 
-More about myself is that I love playing football and that it's my passion. I want to carry on what my dad does if football doesn't work out and start coding to become a engineer.
+More about myself is that I love playing football and that it's my passion. I wanted to start to learn coding because of my dad and video games. I saw by how the graphics and everything made me intruged and how I can do that to other people too and how I could increase my knowledge.
    
 
 
