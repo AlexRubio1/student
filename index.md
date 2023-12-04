@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## Alex Rubio's Homepage
+## The best homepage ever
 THe start of my journey was a little intense has I didn't know what I was for a little bit until the teacher and my dad helped me. Going on I started to try and use python to code possibly and animation or anything. Starting with this homepage I'm going to try and make it entertaining. 
 
 
@@ -14,6 +14,7 @@ THe start of my journey was a little intense has I didn't know what I was for a 
 
 
 More about myself is that I love playing football and that it's my passion. I wanted to start to learn coding because of my dad and video games. I saw by how the graphics and everything made me intruged and how I can do that to other people too and how I could increase my knowledge.
+
    
 
 
