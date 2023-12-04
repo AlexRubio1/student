@@ -21,11 +21,31 @@ More about myself is that I love playing football and that it's my passion. I wa
   <source src="{{site.baseurl}}/images/movie.mov" type="video/mp4">
 </video>
 
-This video is just a little bit about my football carrer and my passion.
+# This video is just a little bit about my football carrer and my passion.
+The other stuff that I love is that my family and my pets and friends
+
+![Alt text]({{site.baseurl}}/images/IMG_2741.HEIC)
+
+# This is my dog Luna and Kobe
+Luna is a still a pup husky, thats 1 years old.
+
+-Luna is the most energetic, running everywhere and getting zoomies
 
 
+Kobe is the older dog at 14 years old
+
+-Kobe likes to relax and sit on the couch with me or sleeping on his bed
+
+![Alt text]({{site.baseurl}}/images/IMG_1577.HEIC)
+
+These are my parents at one paseo, My dad is an engineer which I think is awesome.
+
+He is the main reason that I started this class and as I learn more about how to code I realize how much I can do.
+
+<style>
+img{
+    width: 400px;
+}
 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder.
+</style>
