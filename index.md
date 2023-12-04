@@ -17,7 +17,11 @@ More about myself is that I love playing football and that it's my passion. I wa
 
    
 
-<../../Library/Mobile Documents/com~apple~CloudDocs/RPReplay_Final1698708259.mov>
+<video width="400" controls>
+  <source src="{{site.baseurl}}/images/movie.mov" type="video/mp4">
+</video>
+
+This video is just a little bit about my football carrer and my passion.
 
 
 
