@@ -42,6 +42,8 @@ These are my parents at one paseo, My dad is an engineer which I think is awesom
 
 He is the main reason that I started this class and as I learn more about how to code I realize how much I can do.
 
+
+
 <style>
 img{
     width: 400px;
@@ -49,3 +51,4 @@ img{
 
 
 </style>
+Other than that I am going to try and do anmiation, and maybe even create some graphics
