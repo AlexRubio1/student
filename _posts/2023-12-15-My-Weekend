@@ -1,0 +1,17 @@
+---
+toc: false
+comments: true
+layout: post
+title: Week 3 Plan
+description: My week
+type: plans
+courses: { compsci: {week: 3} }
+---
+
+## What I did on my week.
+
+What I did was I changed the snake game by increasing the amount of modes of the speed that the snake could go.
+
+I also changed the color of the boarder and the color of the snake.
+
+Couldn't do much as I was sick most days
