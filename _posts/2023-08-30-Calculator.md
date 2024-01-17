@@ -51,7 +51,9 @@ courses: { compsci: {week: 2} }
       <div class="calculator-clear">A/C</div>
       <div class="calculator-number">0</div>
       <div class="calculator-number">.</div>
-      <div class="calculator-equals">=</div>
+      <div class="calculator-equals" id="equals">=</div>
+      <div class="calculator-operation">sqrt</div>
+      <div class="calculator-operation">tan</div>
   </div>
 </div>
 
@@ -67,6 +69,9 @@ courses: { compsci: {week: 2} }
   const operations = document.querySelectorAll(".calculator-operation");
   const clear = document.querySelectorAll(".calculator-clear");
   const equals = document.querySelectorAll(".calculator-equals");
+  
+  //const equals = document.getElementById("equals");
+  //equals.style.backgroundColor = "yellow";
 
   // Number buttons listener
   numbers.forEach(button => {
@@ -131,6 +136,12 @@ courses: { compsci: {week: 2} }
               break;
           case "/":
               result = first / second;
+              break;
+          case "sqrt":
+              result = Math.sqrt(first);
+              break;
+          case "tan":
+              result = Math.tan(first);
               break;
           default: 
               break;
